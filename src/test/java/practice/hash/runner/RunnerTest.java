@@ -1,4 +1,4 @@
-package pratice.hash.runner;
+package practice.hash.runner;
 
 import org.junit.Assert;
 import org.junit.Test;

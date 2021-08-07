@@ -1,4 +1,4 @@
-package pratice.hash.phone_book;
+package practice.hash.phone_book;
 
 import org.junit.Assert;
 import org.junit.Test;
