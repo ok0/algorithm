@@ -1,10 +1,9 @@
-package practice.hash.runner;
+package programmers.hash.runner;
 
 import org.junit.Assert;
 import org.junit.Test;
-import practice.hash.runner.Solution;
 
-public class RunnerTest {
+public class RunnerCamouflageTest {
 
     @Test
     public void runnerTest() {

@@ -1,4 +1,4 @@
-package practice.hash.runner;
+package programmers.hash.runner;
 
 import java.util.Arrays;
 

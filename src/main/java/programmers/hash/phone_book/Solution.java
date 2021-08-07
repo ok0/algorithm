@@ -1,4 +1,4 @@
-package practice.hash.phone_book;
+package programmers.hash.phone_book;
 
 import java.util.HashSet;
 
