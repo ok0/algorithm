@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pratice.hash.phone_book.PhoneBookTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-07T07:01:58" hostname="yunjonghun-ui-MacBook-Pro.local" time="0.002">
+  <properties/>
+  <testcase name="phoneBookTest" classname="pratice.hash.phone_book.PhoneBookTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
